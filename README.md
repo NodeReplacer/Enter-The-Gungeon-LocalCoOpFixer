@@ -10,7 +10,7 @@ Enter the Gungeon has an issue with its co-op but it's innocently done. The logi
 The issue arises in practice: 
 1. Chests still only give one item, but enemies have more health.
 2. So you use up more ammo to defeat them, but only have the resources meant for one player.
-3. This results in both players using the default gun almost all the way throughout the entire game except on bosses. In a game about interesting guns, the players cannot use guns.
+3. This results in both players using their (awful) default guns almost all the way throughout the entire game except on bosses. In a game about interesting guns, the players cannot use guns.
 4. Dying replaces chests with a "rescue" chest that respawns the dead player. Further depriving players of guns/resources.
 5. No difficulty or balance is worth compromising the foundational concept of the game, therefore this mod was created.
 
