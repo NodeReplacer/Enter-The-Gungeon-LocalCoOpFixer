@@ -14,7 +14,7 @@ The issue arises in practice:
 3. This results in both players using their (awful) default guns almost all the way throughout the entire game except on bosses. In a game about interesting guns, the players cannot use guns.
 4. Dying replaces chests with a "rescue" chest that respawns the dead player. Further depriving players of guns/resources.
 5. Enemies have more random attack patterns based on who they are targeting potentially making it more likely that a player will get hit. 
-6. As a result of the these points the fundamental concept of the game (using cool guns and dodging bullets) is compromised.
+6. As a result of these points the fundamental concept of the game (using cool guns and dodging bullets) is compromised.
 
 # Mod Features
 
