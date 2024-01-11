@@ -6,6 +6,7 @@ Enter the Gungeon has an issue with its co-op but it's innocently done. The logi
 2. We can't raise enemy damage because the player only has 6 health, so taking two health per hit will devastate any run.
 3. Therefore we will raise enemy health (by 1.4 times).
 4. Also we will need to implement some sort of revive mechanic so one player isn't just gone forever.
+5. We'll use the chests to respawn players because there should be **some** punishment for dying.
 
 The issue arises in practice: 
 1. Chests still only give one item, but enemies have more health.
