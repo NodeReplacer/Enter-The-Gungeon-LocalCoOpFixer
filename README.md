@@ -20,4 +20,4 @@ The issue arises in practice:
 
 This mod attempts to address this by:
 - Doubling all chest rewards. They will drop two items instead of one (except rainbow chests). This might result in the same item but usually won't, as the drop table is rolled separately for each item.
-- Increase chance of room rewards by 1.5 times. 2 times was out of control. At 1.5 you will have enough money to keep up with buying keys and maybe you will get more but that's more luck dependent. This may make things a bit easier, though I found that even with both characters capable of using guns, the 1.4 health increase for enemies still drained resources.
+- Increase chance of room rewards by 1.5 times. 2 times was out of control. At 1.5 you will have enough money to keep up with buying keys and maybe you will get more but that's more luck dependent. This may make things a bit easier, though I found that even with both characters capable of using guns, the 1.4 health increase for enemies kept things in check.
